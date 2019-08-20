@@ -3,15 +3,25 @@ package com.example.android.meandyou;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Looper;
 import android.util.Log;
 import android.view.View;
+import android.view.ViewGroup;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.widget.EditText;
+import android.widget.ImageSwitcher;
+import android.widget.ImageView;
+import android.widget.ViewSwitcher;
+
+import static android.view.ViewGroup.LayoutParams.WRAP_CONTENT;
+
 
 public class MainActivity extends AppCompatActivity  {
 
     EditText username;
     EditText password;
-
 
 
 
@@ -36,6 +46,9 @@ public class MainActivity extends AppCompatActivity  {
                 password.setCursorVisible(true);
             }
         });
+
+
+
 
     }
 }

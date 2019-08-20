@@ -64,20 +64,20 @@
         "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\f7cc53c381c313f6914c52961dad2f7e\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
     },
     {
-        "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\724fb3089c268e21d9e5f3766c695f7d\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
         "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\724fb3089c268e21d9e5f3766c695f7d\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\724fb3089c268e21d9e5f3766c695f7d\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\724fb3089c268e21d9e5f3766c695f7d\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\724fb3089c268e21d9e5f3766c695f7d\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\724fb3089c268e21d9e5f3766c695f7d\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
@@ -248,12 +248,12 @@
         "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\724fb3089c268e21d9e5f3766c695f7d\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
-        "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\f7cc53c381c313f6914c52961dad2f7e\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
         "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
         "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\724fb3089c268e21d9e5f3766c695f7d\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\f7cc53c381c313f6914c52961dad2f7e\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
@@ -588,12 +588,12 @@
         "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\724fb3089c268e21d9e5f3766c695f7d\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
-        "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\724fb3089c268e21d9e5f3766c695f7d\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
         "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\724fb3089c268e21d9e5f3766c695f7d\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\724fb3089c268e21d9e5f3766c695f7d\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\animator_design_fab_show_motion_spec.xml.flat",
@@ -810,6 +810,10 @@
     {
         "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_fab_ripple_color.xml.flat",
         "source": "C:\\Users\\Y 520\\.gradle\\caches\\transforms-2\\files-2.1\\f7cc53c381c313f6914c52961dad2f7e\\res\\color\\mtrl_fab_ripple_color.xml"
+    },
+    {
+        "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_loginbackground_1.png.flat",
+        "source": "D:\\Android\\Two-User-Chat-App\\app\\src\\main\\res\\mipmap-xxhdpi\\loginbackground_1.png"
     },
     {
         "merged": "D:\\Android\\Two-User-Chat-App\\app\\build\\intermediates\\res\\merged\\debug\\color_design_error.xml.flat",
