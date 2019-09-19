@@ -4673,10 +4673,8 @@ public final class R {
     public static final int notify_panel_notification_icon_bg=0x7f080077;
     public static final int padlock=0x7f080078;
     public static final int rounded_button=0x7f080079;
-    public static final int rounded_edittext=0x7f08007a;
-    public static final int tooltip_frame_dark=0x7f08007b;
-    public static final int tooltip_frame_light=0x7f08007c;
-    public static final int user=0x7f08007d;
+    public static final int tooltip_frame_dark=0x7f08007a;
+    public static final int tooltip_frame_light=0x7f08007b;
   }
   public static final class font {
     public static final int bilbo_swash_caps=0x7f090000;
@@ -4969,9 +4967,12 @@ public final class R {
     public static final int support_simple_spinner_dropdown_item=0x7f0d0036;
   }
   public static final class mipmap {
-    public static final int ic_launcher=0x7f0e0000;
-    public static final int ic_launcher_round=0x7f0e0001;
-    public static final int loginbackground_1=0x7f0e0002;
+    public static final int ic_account_circle_white_36dp=0x7f0e0000;
+    public static final int ic_launcher=0x7f0e0001;
+    public static final int ic_launcher_round=0x7f0e0002;
+    public static final int ic_lock_white_24dp=0x7f0e0003;
+    public static final int ic_lock_white_36dp=0x7f0e0004;
+    public static final int login_background=0x7f0e0005;
   }
   public static final class string {
     public static final int Login=0x7f0f0000;

@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        android:src="@mipmap/loginbackground_1"/>
+        android:src="@mipmap/login_background"/>
 
     <EditText
         android:id="@+id/usernameEditText"
@@ -19,7 +19,6 @@
         android:layout_width="322dp"
         android:layout_height="54dp"
         android:cursorVisible="false"
-        android:drawableEnd="@drawable/user"
         android:drawablePadding="0dp"
         android:ems="10"
         android:hint="@string/username"
@@ -38,7 +37,6 @@
         android:layout_width="322dp"
         android:layout_height="54dp"
         android:cursorVisible="false"
-        android:drawableRight="@drawable/padlock"
         android:ems="10"
         android:hint="@string/password"
         android:inputType="textPassword"
@@ -79,11 +77,11 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="113dp"
+        android:layout_width="230dp"
+        android:layout_height="115dp"
         android:fontFamily="@font/bilbo_swash_caps"
-        android:text="Me &amp; You"
-        android:textColor="#03A9F4"
+        android:text="@string/app_name"
+        android:textColor="#D32F2F"
         android:textSize="80sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
